@@ -8,3 +8,5 @@ const navbar = (
     </ul>
   </nav>
 )
+
+ReactDOM.render(navbar, document.getElementById("root"))
