@@ -1,1 +1,10 @@
-ReactDOM.render(<h1>Hello, everyone!</h1>, document.getElementById("root"))
+const navbar = (
+  <nav>
+    <h1>My Website</h1>
+    <ul>
+      <li>Pricing</li>
+      <li>About</li>
+      <l1>Contact</li>
+    </ul>
+  </nav>
+)
